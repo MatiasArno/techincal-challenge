@@ -1,4 +1,4 @@
-# Technical challenge | Imajine Studio #
+# Technical challenge #
 
 # Desarrollar una calculadora que cuente con:
 
